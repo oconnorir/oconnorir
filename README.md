@@ -3,4 +3,4 @@
 - 🌱 Learning [Typescript](https://www.typescriptlang.org/)
 
 
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=oconnorir&show_icons=true&theme=shadow_red)](https://github.com/oconnorir)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=oconnorir&show_icons=true&theme=onedark)](https://github.com/oconnorir)
